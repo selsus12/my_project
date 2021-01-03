@@ -1,20 +1,18 @@
 <template>
   <div class="content-container">
     <div class="section content-title-group">
-      <h2 class="title">About Vue Getting Started</h2>
-      <p>here are some helpful resources for this project.</p>
+      <h2 class="title">About Project</h2>
       <p>
         by
-        <a href="http://twitter.com/john_papa">John Papa</a>
+        <a href="http://twitter.com/"></a>
       </p>
       <br />
-      <h3 class="title sub-title">Source Code</h3>
-      <p>You can find the source code for this project at the link below</p>
+      <h3 class="title sub-title">Code</h3>
       <p>
         <a
-          href="https://github.com/johnpapa/vue-getting-started"
+          href="https://github.com/"
           target="_blank"
-          >github.com/johnpapa/vue-getting-started</a
+          >github.com/</a
         >
       </p>
       <br />
